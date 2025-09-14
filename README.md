@@ -26,7 +26,7 @@ Here are a few examples of what I’ve worked on (links to be updated):
 ---
 
 ## Connect
-- LinkedIn: [www.linkedin.com/in/love-hedelius-217a1534a](www.linkedin.com/in/love-hedelius-217a1534a)  
+- LinkedIn: [www.linkedin.com/in/love-hedelius-217a1534a](https://www.linkedin.com/in/love-hedelius-217a1534a)  
 - Email: [love@hedelius.net](mailto:love@hedelius.net)
 
 ---
