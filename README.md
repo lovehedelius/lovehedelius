@@ -7,7 +7,8 @@ Here on my GitHub are a few of the projects I have developed over the last few y
 
 ## Projects
 Here are a few examples of what I’ve worked on (links to be updated): 
-- [Fall Detection App (Android/Java)](https://github.com/your-username/fall-detector) – Detects falls via accelerometer and notifies caregivers.  
+- [Cookie company database and REST API (Python/SQL)](https://github.com/lovehedelius/database-api)
+- [Arduino control program for MinSeg (C++/Python)](https://github.com/lovehedelius/minseg)  
 
 ---
 
