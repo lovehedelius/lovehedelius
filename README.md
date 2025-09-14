@@ -22,6 +22,16 @@ Here are a few examples of what I’ve worked on (links to be updated):
 - ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white) MATLAB
 - ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) R
 
+- ![Java](https://img.shields.io/badge/-?style=flat&logo=openjdk&logoColor=white)
+- ![Python](https://img.shields.io/badge/-?style=flat&logo=python&logoColor=3776AB)
+- ![SQL](https://img.shields.io/badge/-?style=flat&logo=postgresql&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-?style=flat&logo=html5&logoColor=E34F26)
+- ![CSS3](https://img.shields.io/badge/-?style=flat&logo=css3&logoColor=1572B6)
+- ![JavaScript](https://img.shields.io/badge/-?style=flat&logo=javascript&logoColor=F7DF1E)
+- ![PHP](https://img.shields.io/badge/-?style=flat&logo=php&logoColor=777BB4)
+- ![MATLAB](https://img.shields.io/badge/-?style=flat&logo=matlab&logoColor=0076A8)
+- ![R](https://img.shields.io/badge/-?style=flat&logo=r&logoColor=276DC3)
+
 
 ---
 
