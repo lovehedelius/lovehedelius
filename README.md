@@ -8,7 +8,8 @@ Here on my GitHub are a few of the projects I have developed over the last few y
 ## Projects
 Here are a few examples of what I’ve worked on: 
 - [Cookie company database and REST API (Python/SQL)](https://github.com/lovehedelius/database-api)
-- [Arduino control program for MinSeg (C++/Python)](https://github.com/lovehedelius/minseg)  
+- [Arduino control program for MinSeg (C++/Python)](https://github.com/lovehedelius/minseg)
+- [Recipe website for cooking inspiration (HTML/CSS/JavaScript)](https://github.com/lovehedelius/recipe-website)
 
 ---
 
