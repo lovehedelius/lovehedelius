@@ -11,6 +11,7 @@ Here are a few examples of what I’ve worked on:
 - [Arduino control program for MinSeg (C++/Python)](https://github.com/lovehedelius/minseg)
 - [Recipe website for cooking inspiration (HTML/CSS/JavaScript)](https://github.com/lovehedelius/recipe-website)
 - [JUnit test suite for Bad Ice Cream game (Java)](https://github.com/lovehedelius/game-testing)
+- [Android app detecing falls and alerting contacts (Java)](https://github.com/lovehedelius/fall-detector)
 - [Chess bot for coding challenge (C#)](https://github.com/lovehedelius/chess-bot)
 
 ---
